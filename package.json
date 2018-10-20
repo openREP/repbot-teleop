@@ -1,0 +1,23 @@
+{
+  "name": "@openrep/repbot-teleop",
+  "version": "0.0.1",
+  "description": "Teleoperated REPBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openrep/repbot-teleop.git"
+  },
+  "author": "ZQ Yeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openrep/repbot-teleop/issues"
+  },
+  "homepage": "https://github.com/openrep/repbot-teleop#readme",
+  "dependencies": {
+    "@openrep/repbot": "^0.0.3",
+    "gamepad": "^1.6.0"
+  }
+}
